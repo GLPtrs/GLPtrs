@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=770a0c&height=120&section=header"/>
 # Hi, I'm Grisha 👋🏻👨🏻‍💻<h2 align="center">
 <img src="assets/gh-header-image-cropped.png" alt="Banner image (header)" width="100%" />
 
@@ -63,4 +64,4 @@ I specialize in vulnerability discovery, exploit development, and adversary emul
   <!--![snake gif](https://github.com/ArevikKH/ArevikKH/blob/output/github-snake-dark.svg)
   <img src="https://github.com/ArevikKH/ArevikKH/assets/your_image_id_here/snake.svg" alt="snake animation" /> -->
 </div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=770a0c&height=120&section=footer"/>
