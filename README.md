@@ -1,11 +1,11 @@
 # Hi, I'm Grisha 👋🏻👨🏻‍💻<h2 align="center">
+<img src="assets/gh-header-image-cropped.png" alt="Banner image (header)" width="100%" />
 
 ## About Me
-
 Hi, I’m an **Offensive Security Engineer** and **Penetration Tester** passionate about cybersecurity, ethical hacking, and building secure systems.
 I specialize in vulnerability discovery, exploit development, and adversary emulation.
-- Skilled in tools like **Nmap**, **Burp Suite**, **Wireshark**, **Gobuster**, **Metasploit**, and custom Python scripts.
-- Constantly learning and exploring **Red Team operations**, **web app security**, and **Linux internals**.
+- Skilled in **Kali Linux** tools like **Nmap**, **Burp Suite**, **Wireshark**, **Gobuster**, **Metasploit**, e.g., writing Python/C scripts and exploits.
+- Constantly learning and exploring **Red Team operations**, **Web-app security**,**Infrastructure security*** and **Linux internals**.
 - Currently deep-diving into **Advanced Exploitation**,and **TryHackMe / HTB challenges**.
 
 
@@ -54,7 +54,6 @@ I specialize in vulnerability discovery, exploit development, and adversary emul
 ---
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=GLPtrs&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLPtrs&layout=compact&theme=aura" alt="Top Languages" width="48%" />
 </p>
 
